@@ -1,0 +1,16 @@
+ 1135  cd ..
+ 1136  ls
+ 1137  touch commands_used.txt
+ 1138  history > commands_used.txt
+ 1139  ls
+ 1140  cd ..
+ 1141  ls
+ 1142  cd ..
+ 1143  cd ..
+ 1144  touch setup_c_project.sh
+ 1145  chmod +x setup_c_project.sh
+ 1146  nano setup_c_project.sh
+ 1147  ./setup_c_project.sh
+ 1148  ls
+ 1149  cd mon_nouveau_project
+ 1150  touch script_explanation.txt

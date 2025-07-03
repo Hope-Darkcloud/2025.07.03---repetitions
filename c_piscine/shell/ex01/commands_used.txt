@@ -1,0 +1,16 @@
+ 1122  echo 'C Piscine est Stimulant!' > file2.txt
+ 1123  cat file2
+ 1124  cat file2.txt
+ 1125  cp file1.txt .hidden_file.txt
+ 1126  cat .hidden_file.txt
+ 1127  mkdir backup
+ 1128  cp *.txt backup/
+ 1129  ls
+ 1130  cd backup
+ 1131  ls
+ 1132  mv file1.txt original.txt
+ 1133  ls
+ 1134  ls
+ 1135  cd ..
+ 1136  ls
+ 1137  touch commands_used.txt
